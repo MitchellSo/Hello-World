@@ -1,2 +1,2 @@
 # Hello-World
-repository test 
+Hello this is just a training exercise.
